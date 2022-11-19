@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+}
+
+h1 {
+    font-size: 32px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+}
+
+a {
+    background-color: dimgrey;
+    color: cyan;
+}
+
+li {
+    background-color: tomato;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
